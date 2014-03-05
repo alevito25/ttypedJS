@@ -1,4 +1,4 @@
 ttypedJS
 ========
 
-JavaScript file editor similar to SublimeText with basic functionalities
+JavaScript file editor for code on the fly
